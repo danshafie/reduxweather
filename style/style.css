@@ -6,3 +6,12 @@ td, th{
   vertical-align: middle !important;
   text-align: center !important;
 }
+
+td:first-of-type{
+  height: 200px;
+  width: 250px
+}
+
+.btn-primary{
+  opacity: .5;
+}
